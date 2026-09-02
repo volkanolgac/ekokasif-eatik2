@@ -1,0 +1,6 @@
+{
+  "name": "EkoKaşif E-Atık",
+  "description": "Çocuklar için eğlenceli ve öğretici e-atık geri dönüşüm oyunu ve sanal doğa bahçesi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
